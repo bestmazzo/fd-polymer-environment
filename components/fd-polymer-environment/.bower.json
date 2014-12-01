@@ -1,0 +1,44 @@
+{
+  "name": "fd-polymer-environment",
+  "keywords": [
+    "freedomotic",
+    "seed",
+    "polymer",
+    "web-components"
+  ],
+  "main": "fd-polymer-environment.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.0",
+    "fd-polymer-rest-service": "~0.1.14",
+    "fd-polymer-ws-service": "~0.1.6",
+    "paper-elements": "polymer/paper-elements#~0.5.1"
+  },
+  "devDependencies": {
+    "polymer-test-tools": "Polymer/polymer-test-tools#^0.5.0"
+  },
+  "authors": [
+    "Matteo Mazzoni <matteo@bestmazzo.it>",
+    "Niko Zarzani <niko.zarzani@nautes.com>"
+  ],
+  "description": "Element showing a Environment with rooms and Things in it",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "../",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/bestmazzo/fd-polymer-environment",
+  "_release": "a0f91a9121",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a0f91a9121e591f1f65b61646f50fe5e96ca34a5"
+  },
+  "_source": "git://github.com/bestmazzo/fd-polymer-environment.git",
+  "_target": "master",
+  "_originalSource": "bestmazzo/fd-polymer-environment",
+  "_direct": true
+}
